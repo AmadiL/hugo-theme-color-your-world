@@ -3,7 +3,8 @@
 // Import base (variables and mixins), typography and general colors
 @import 'base/_all',
         'fonts/_all',
-        'colors/variables';
+        'colors/variables',
+        'base/_toggling';
 
 
 // Get transition for color changes
